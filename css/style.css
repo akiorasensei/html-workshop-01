@@ -1,0 +1,13 @@
+h1 {
+  /* font-size: 150px;   */
+  color: red;
+  font-family: 'Verdana';
+}
+
+article {
+    background: #FFFBBD;
+}
+
+section {
+    border: 1px solid black;
+}
